@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p141721-e1451388.adobeaemcloud.com/emailsaluja/asaluja-xwalk/main"
+    url: "https://author-p141721-e1451388.adobeaemcloud.com/bin/franklin.delivery/emailsaluja/asaluja-xwalk/main"
     type: "markup" 
     suffix: ".html"
