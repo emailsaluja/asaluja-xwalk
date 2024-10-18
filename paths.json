@@ -3,7 +3,7 @@
     "/content/asaluja-xwalk/:/",
     "/content/asaluja-xwalk/configuration:/.helix/config.json"
   ],
-  "includes:" [    
+  "includes": [    
    "/content/asaluja-xwalk/"  
   ]
 }
