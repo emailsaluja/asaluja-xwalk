@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/asaluja-xwalk2/:/",
-    "/content/asaluja-xwalk2/configuration:/.helix/config.json"
+    "/content/Aman-Xwalk/:/",
+    "/content/Aman-Xwalk/configuration:/.helix/config.json"
   ],
   "includes": [    
-   "/content/asaluja-xwalk2/"  
+   "/content/Aman-Xwalk/"  
   ]
 }
