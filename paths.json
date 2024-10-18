@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/asaluja-xwalk/:/",
+    "/content/asaluja-xwalk/configuration:/.helix/config.json",
+    "/content/asaluja-xwalk/metadata:/metadata.json"
   ],
-  "includes:" [    "/content/asaluja-xwalk/“  ]
+  "includes:" [    
+   "/content/asaluja-xwalk/“  
+  ]
 }
